@@ -1,0 +1,67 @@
+rascunho do portfolio
+https://color.adobe.com TRIADE
+cor 1:
+cor 2:
+cor 3:
+cor 4:
+cor 5:
+
+https://fonts.google.com
+Fonte:
+<link href="https://fonts.googleapis.com/css?family=B612+Mono|Roboto&display=swap" rel="stylesheet">
+font-family: 'B612 Mono', monospace;
+
+Textos:
+
+
+Mini-Bio:
+https://unsplash.com
+
+Habilidade 1:
+Título: Writing
+Descrição: escrita de textos em blogs
+nome do icone: online-learning.png
+https://www.flaticon.com
+
+Habilidade 2:
+Titulo: Design Digital
+Descrição: criação de layout de peças de atividades educativas
+nome do icone: contract.png
+https://www.flaticon.com
+
+Habilidade 3:
+Titulo: proposta de atividades práticas
+Descrição: planejamento, orientação e sugestão de atividades práticas 
+nome do icone:map.png
+https://www.flaticon.com
+
+
+Video do Youtube:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zw6Fps2O7XY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Playlist Spotify:
+<iframe src="https://open.spotify.com/embed/playlist/2zTZoKVoatnEiscIWyWCFl" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+
+div{
+    background: red;
+    color: grey;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.linksmenu{
+    background: yellow;
+    
+}
+
+.linksmenu iframe{
+    z-index: 0;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+
+}
